@@ -12,58 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Yunda =====
-[1]Yunda       |05:37:55 | 18-10-2026| login OK @yundaanggilia | score=1390 rank=4755
-[1]Yunda       |05:37:55 | 18-10-2026| serverTime=2026-10-18T05:37:54.000Z local=2026-10-18T05:37:55.505Z
+[1]Yunda       |05:55:55 | 19-10-2026| login OK @yundaanggilia | score=1450 rank=4684
+[1]Yunda       |05:55:55 | 19-10-2026| serverTime=2026-10-19T05:55:55.000Z local=2026-10-19T05:55:55.986Z
 --> [1]Yunda menjalankan: Claim Daily
-[1]Yunda       |05:37:56 | 18-10-2026| daily: OK +10 poin score=1400
+[1]Yunda       |05:55:57 | 19-10-2026| daily: OK +10 poin score=1460
 --> [1]Yunda menjalankan: Auto All Tasks (5 pending)
-[1]Yunda       |05:37:58 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yundaanggilia/status/2111692966106682583
-[1]Yunda       |05:37:58 | 18-10-2026| delay 10s...
-[1]Yunda       |05:38:11 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yundaanggilia/status/2111692701645517135
-[1]Yunda       |05:38:11 | 18-10-2026| delay 10s...
-[1]Yunda       |05:38:25 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yundaanggilia/status/2111692903190748231
-[1]Yunda       |05:38:25 | 18-10-2026| delay 10s...
-[1]Yunda       |05:38:37 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
-[1]Yunda       |05:38:37 | 18-10-2026| delay 10s...
-[1]Yunda       |05:38:50 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yundaanggilia/status/2111692882969053052
-[1]Yunda       |05:38:50 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Yunda       |05:38:52 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/yundaanggilia/status/2111692989092153010
+[1]Yunda       |05:55:59 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/yundaanggilia/status/2112059645832840252
+[1]Yunda       |05:55:59 | 19-10-2026| delay 10s...
+[1]Yunda       |05:56:12 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/yundaanggilia/status/2112059857105129212
+[1]Yunda       |05:56:12 | 19-10-2026| delay 10s...
+[1]Yunda       |05:56:25 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/yundaanggilia/status/2112059995236537478
+[1]Yunda       |05:56:25 | 19-10-2026| delay 10s...
+[1]Yunda       |05:56:38 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/yundaanggilia/status/2112060061964186340
+[1]Yunda       |05:56:38 | 19-10-2026| delay 10s...
+[1]Yunda       |05:56:50 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/yundaanggilia/status/2112059782980988935
+[1]Yunda       |05:56:50 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Yunda       |05:56:54 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/yundaanggilia/status/2112059864500700292
 --> [1]Yunda menjalankan: Watch Anime
-[1]Yunda       |05:38:52 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Yunda       |05:38:52 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Yunda       |05:56:55 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Yunda       |05:56:55 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Yunda       |05:38:55 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Yunda       |05:39:00 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Yunda       |05:39:02 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Yunda       |05:39:07 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Yunda       |05:39:09 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Yunda       |05:39:14 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Yunda       |05:39:15 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Yunda       |05:56:58 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Yunda       |05:57:03 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Yunda       |05:57:05 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Yunda       |05:57:10 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Yunda       |05:57:12 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Yunda       |05:57:17 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Yunda       |05:57:19 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Yunda menjalankan: Read Article
-[1]Yunda       |05:39:18 | 18-10-2026| news: 27/27 artikel selesai dibaca
-[1]Yunda       |05:39:18 | 18-10-2026| mint eligibility: {"userId":"2011423628907429888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@yundaanggilia","status":"submitted","revision":"9feba4b3-51cc-4a47-9ab2-d3051fd3
-[1]Yunda       |05:39:18 | 18-10-2026| news: semua artikel sudah dibaca
+[1]Yunda       |05:57:22 | 19-10-2026| news: 27/27 artikel selesai dibaca
+[1]Yunda       |05:57:23 | 19-10-2026| mint eligibility: {"userId":"2011423628907429888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@yundaanggilia","status":"submitted","revision":"9feba4b3-51cc-4a47-9ab2-d3051fd3
+[1]Yunda       |05:57:23 | 19-10-2026| news: semua artikel sudah dibaca
 --> [1]Yunda menjalankan: Quiz Anime
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep1: sudah dijawab
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep2: sudah dijawab
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep3: sudah dijawab
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep4: sudah dijawab
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep5: sudah dijawab
-[1]Yunda       |05:39:19 | 18-10-2026| quiz ep6: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep1: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep2: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep3: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep4: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep5: sudah dijawab
+[1]Yunda       |05:57:23 | 19-10-2026| quiz ep6: sudah dijawab
 --> [1]Yunda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Yunda       |05:39:21 | 18-10-2026| music: kedua misi sudah tercapai, stop
-[1]Yunda       |05:39:22 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Yunda       |05:39:22 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Yunda       |05:39:22 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Yunda       |05:57:26 | 19-10-2026| music: kedua misi sudah tercapai, stop
+[1]Yunda       |05:57:26 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |05:57:26 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |05:57:26 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Yunda menjalankan: Claim Missions
-[1]Yunda       |05:39:22 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Yunda       |05:39:22 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Yunda       |05:39:22 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Yunda       |05:57:28 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |05:57:28 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |05:57:28 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Yunda menjalankan: Check Eligibility
 
 --- eligibility [1]Yunda ---
-  @yundaanggilia | score=1390 rank=4755
-  tasks    [###################-] 75/80
+  @yundaanggilia | score=1450 rank=4684
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Yunda menjalankan: Read Manga
-[1]Yunda       |05:39:27 | 18-10-2026| manga: 0/13 chapter belum completed
+[1]Yunda       |05:57:33 | 19-10-2026| manga: 0/13 chapter belum completed
 --> [1]Yunda menjalankan: Get Gift
-[1]Yunda       |05:39:27 | 18-10-2026| gift: 0/4 belum diterima
+[1]Yunda       |05:57:34 | 19-10-2026| gift: 0/4 belum diterima
 --> [1]Yunda menjalankan: Setup Profile
-[1]Yunda       |05:39:28 | 18-10-2026| profile: bio="https://x.com/yundaanggilia" fav=yuki rewardAt=1791712012
-[1]Yunda       |05:39:28 | 18-10-2026| profile: bonus sudah diklaim, skip
+[1]Yunda       |05:57:34 | 19-10-2026| profile: bio="https://x.com/yundaanggilia" fav=yuki rewardAt=1791712012
+[1]Yunda       |05:57:34 | 19-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Yunda menjalankan: Bind Wallet
-[1]Yunda       |05:39:29 | 18-10-2026| wallet: sudah terikat Cn5Jpwi24w... (solana)
+[1]Yunda       |05:57:35 | 19-10-2026| wallet: sudah terikat Cn5Jpwi24w... (solana)
 
 == RINGKASAN ==
 - Yunda: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
