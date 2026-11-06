@@ -12,7 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Yunda =====
-[1]Yunda       |11:42:17 | 05-11-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Yunda       |11:40:38 | 06-11-2026| login OK @yundaanggilia | score=2870 rank=2741
+[1]Yunda       |11:40:38 | 06-11-2026| serverTime=2026-11-06T11:40:38.000Z local=2026-11-06T11:40:38.479Z
+--> [1]Yunda menjalankan: Claim Daily
+[1]Yunda       |11:40:39 | 06-11-2026| daily: OK +10 poin score=2880
+--> [1]Yunda menjalankan: Auto All Tasks (8 pending)
+[1]Yunda       |11:40:41 | 06-11-2026| [1/8] 191dc55f (reply) verify GAGAL http=400 resp={"error":"タスク作成日時以降に投稿した返信のURLを提出してください。"} | proof=https://x.com/yundaanggilia/status/2118669381944669920
+[1]Yunda       |11:40:41 | 06-11-2026| delay 10s...
+[1]Yunda       |11:40:53 | 06-11-2026| [2/8] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/yundaanggilia/status/2118669429986898321
+[1]Yunda       |11:40:53 | 06-11-2026| delay 10s...
+[1]Yunda       |11:41:05 | 06-11-2026| [3/8] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/yundaanggilia/status/2118669589112437925
+[1]Yunda       |11:41:05 | 06-11-2026| delay 10s...
+[1]Yunda       |11:41:17 | 06-11-2026| [4/8] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/yundaanggilia/status/2118669773184601779
+[1]Yunda       |11:41:17 | 06-11-2026| delay 10s...
+[1]Yunda       |11:41:27 | 06-11-2026| [5/8] bf0ad10d (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/yundaanggilia/status/2118669467476596384
+[1]Yunda       |11:41:27 | 06-11-2026| delay 10s...
+[1]Yunda       |11:41:39 | 06-11-2026| [6/8] edbd5fee (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/yundaanggilia/status/2118669877670103061
+[1]Yunda       |11:41:39 | 06-11-2026| delay 10s...
+[1]Yunda       |11:41:51 | 06-11-2026| [7/8] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/yundaanggilia/status/2118669819605539693
+[1]Yunda       |11:41:51 | 06-11-2026| delay 10s...
+[1]Yunda       |11:42:03 | 06-11-2026| [8/8] 1366d543 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/yundaanggilia/status/2118669924042554946
+[1]Yunda       |11:42:03 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Yunda       |11:42:04 | 06-11-2026| [1/1] 191dc55f (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/yundaanggilia/status/2118669794664461416
+--> [1]Yunda menjalankan: Watch Anime
+[1]Yunda       |11:42:06 | 06-11-2026| watch ERROR: watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Yunda menjalankan: Read Article
+[1]Yunda       |11:42:07 | 06-11-2026| news: 34/34 artikel selesai dibaca
+[1]Yunda       |11:42:08 | 06-11-2026| mint eligibility: {"userId":"2011423628907429888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@yundaanggilia","status":"submitted","revision":"9feba4b3-51cc-4a47-9ab2-d3051fd3
+[1]Yunda       |11:42:08 | 06-11-2026| news: semua artikel sudah dibaca
+--> [1]Yunda menjalankan: Quiz Anime
+--> [1]Yunda menjalankan: Music Missions (realtime, bisa lama!)
+[1]Yunda       |11:42:11 | 06-11-2026| music: kedua misi sudah tercapai, stop
+[1]Yunda       |11:42:12 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |11:42:12 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |11:42:12 | 06-11-2026| mission anime-completed-3: sudah diklaim
+--> [1]Yunda menjalankan: Claim Missions
+[1]Yunda       |11:42:12 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |11:42:12 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |11:42:12 | 06-11-2026| mission anime-completed-3: sudah diklaim
+--> [1]Yunda menjalankan: Check Eligibility
+
+--- eligibility [1]Yunda ---
+  @yundaanggilia | score=2870 rank=2741
+  tasks    [##------------------] 1/9
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music    [#################---] 11/13
+  artikel  [####################] 34/34
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Yunda menjalankan: Read Manga
+[1]Yunda       |11:42:18 | 06-11-2026| manga: 0/13 chapter belum completed
+--> [1]Yunda menjalankan: Get Gift
+[1]Yunda       |11:42:20 | 06-11-2026| gift: 3/9 belum diterima
+[1]Yunda       |11:42:21 | 06-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Yunda       |11:42:25 | 06-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Yunda       |11:42:28 | 06-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+--> [1]Yunda menjalankan: Setup Profile
+[1]Yunda       |11:42:30 | 06-11-2026| profile: bio="https://x.com/yundaanggilia" fav=yuki rewardAt=1791712012
+[1]Yunda       |11:42:30 | 06-11-2026| profile: bonus sudah diklaim, skip
+--> [1]Yunda menjalankan: Bind Wallet
+[1]Yunda       |11:42:31 | 06-11-2026| wallet: sudah terikat Cn5Jpwi24w... (solana)
 
 == RINGKASAN ==
-- Yunda: daily=- | tasks OK 0/0
+- Yunda: daily=claimed | tasks OK 4/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
