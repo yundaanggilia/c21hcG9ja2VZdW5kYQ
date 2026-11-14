@@ -12,35 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Yunda =====
-[1]Yunda       |10:39:53 | 13-11-2026| login OK @yundaanggilia | score=3170 rank=2362
-[1]Yunda       |10:39:53 | 13-11-2026| serverTime=2026-11-13T10:39:53.000Z local=2026-11-13T10:39:53.612Z
+[1]Yunda       |09:52:24 | 14-11-2026| login OK @yundaanggilia | score=3190 rank=2369
+[1]Yunda       |09:52:24 | 14-11-2026| serverTime=2026-11-14T09:52:24.000Z local=2026-11-14T09:52:24.244Z
 --> [1]Yunda menjalankan: Claim Daily
-[1]Yunda       |10:39:55 | 13-11-2026| daily: OK +10 poin score=3180
---> [1]Yunda menjalankan: Auto All Tasks (1 pending)
-[1]Yunda       |10:39:57 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212105520571029 | proof=https://x.com/yundaanggilia/status/2121190808055827205
-[1]Yunda       |10:39:57 | 13-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Yunda       |10:39:59 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121055205710295 | proof=https://x.com/yundaanggilia/status/2121190703601247511
+[1]Yunda       |09:52:26 | 14-11-2026| daily: OK +10 poin score=3200
+--> [1]Yunda menjalankan: Auto All Tasks (3 pending)
+[1]Yunda       |09:52:29 | 14-11-2026| [1/3] a251b9cc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212153557215422 | proof=https://x.com/yundaanggilia/status/2121541444005343892
+[1]Yunda       |09:52:29 | 14-11-2026| delay 10s...
+[1]Yunda       |09:52:42 | 14-11-2026| [2/3] f5a65410 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212153557215422 | proof=https://x.com/yundaanggilia/status/2121541219796016119
+[1]Yunda       |09:52:42 | 14-11-2026| delay 10s...
+[1]Yunda       |09:52:55 | 14-11-2026| [3/3] 2402ea04 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212153557215422 | proof=https://x.com/yundaanggilia/status/2121541612210066790
+[1]Yunda       |09:52:55 | 14-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Yunda       |09:52:57 | 14-11-2026| [1/1] a251b9cc (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121535572154220 | proof=https://x.com/yundaanggilia/status/2121541516716762154
 --> [1]Yunda menjalankan: Watch Anime
-[1]Yunda       |10:40:00 | 13-11-2026| watch: semua video sudah completed
+[1]Yunda       |09:52:58 | 14-11-2026| watch: semua video sudah completed
 --> [1]Yunda menjalankan: Read Article
-[1]Yunda       |10:40:01 | 13-11-2026| news: 34/34 artikel selesai dibaca
-[1]Yunda       |10:40:02 | 13-11-2026| mint eligibility: {"userId":"2011423628907429888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@yundaanggilia","status":"submitted","revision":"9feba4b3-51cc-4a47-9ab2-d3051fd3
-[1]Yunda       |10:40:02 | 13-11-2026| news: semua artikel sudah dibaca
+[1]Yunda       |09:53:00 | 14-11-2026| news: 34/34 artikel selesai dibaca
+[1]Yunda       |09:53:00 | 14-11-2026| mint eligibility: {"userId":"2011423628907429888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@yundaanggilia","status":"submitted","revision":"9feba4b3-51cc-4a47-9ab2-d3051fd3
+[1]Yunda       |09:53:00 | 14-11-2026| news: semua artikel sudah dibaca
 --> [1]Yunda menjalankan: Quiz Anime
 --> [1]Yunda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Yunda       |10:40:04 | 13-11-2026| music: kedua misi sudah tercapai, stop
-[1]Yunda       |10:40:05 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Yunda       |10:40:05 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Yunda       |10:40:05 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Yunda       |09:53:03 | 14-11-2026| music: kedua misi sudah tercapai, stop
+[1]Yunda       |09:53:04 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |09:53:04 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |09:53:04 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Yunda menjalankan: Claim Missions
-[1]Yunda       |10:40:05 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Yunda       |10:40:05 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Yunda       |10:40:05 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Yunda       |09:53:05 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Yunda       |09:53:05 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Yunda       |09:53:05 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Yunda menjalankan: Check Eligibility
 
 --- eligibility [1]Yunda ---
-  @yundaanggilia | score=3170 rank=2362
-  tasks    [#############-------] 2/3
+  @yundaanggilia | score=3190 rank=2369
+  tasks    [#####---------------] 1/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Yunda menjalankan: Read Manga
-[1]Yunda       |10:40:09 | 13-11-2026| manga: 0/13 chapter belum completed
+[1]Yunda       |09:53:09 | 14-11-2026| manga: 0/13 chapter belum completed
 --> [1]Yunda menjalankan: Get Gift
-[1]Yunda       |10:40:11 | 13-11-2026| gift: 3/12 belum diterima
-[1]Yunda       |10:40:12 | 13-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Yunda       |10:40:15 | 13-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Yunda       |10:40:18 | 13-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Yunda       |09:53:12 | 14-11-2026| gift: 3/12 belum diterima
+[1]Yunda       |09:53:13 | 14-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Yunda       |09:53:16 | 14-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Yunda       |09:53:19 | 14-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Yunda menjalankan: Setup Profile
-[1]Yunda       |10:40:21 | 13-11-2026| profile: bio="https://x.com/yundaanggilia" fav=yuki rewardAt=1791712012
-[1]Yunda       |10:40:21 | 13-11-2026| profile: bonus sudah diklaim, skip
+[1]Yunda       |09:53:22 | 14-11-2026| profile: bio="https://x.com/yundaanggilia" fav=yuki rewardAt=1791712012
+[1]Yunda       |09:53:22 | 14-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Yunda menjalankan: Bind Wallet
-[1]Yunda       |10:40:21 | 13-11-2026| wallet: sudah terikat Cn5Jpwi24w... (solana)
+[1]Yunda       |09:53:22 | 14-11-2026| wallet: sudah terikat Cn5Jpwi24w... (solana)
 
 == RINGKASAN ==
-- Yunda: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Yunda: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
